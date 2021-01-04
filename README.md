@@ -1,1 +1,1 @@
-# Grades
+A Java program to demonstrate the Observer and Singleton Patterns.  The program uses a Singleton File Manager class that accesses files and alerts observers when the file is changed.  The file keeps track of entered grades.
